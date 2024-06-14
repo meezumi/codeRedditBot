@@ -1,0 +1,10 @@
+libraries used :
+ 1.praw (python reddit api wrapper)
+ 2.dotenv
+
+https://www.youtube.com/watch?v=0r1Bhf7ALJU
+https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html#praw.models.Subreddit.submit
+adding the username, client_id, secret all from the dev site to connect to the reddit api, all stored in the env file.
+
+comments, replying, title-scraping
+unfinished, will work more.
